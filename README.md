@@ -1,4 +1,5 @@
 # MPI_FFT
+When problem size is 8192:
 
 serial 4.7s
 
@@ -13,3 +14,5 @@ serial 4.7s
 32 process 0.50s
 
 64 process 0.48s
+
+More process take more time for communication.
